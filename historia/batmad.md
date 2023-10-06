@@ -11,3 +11,6 @@ llevar a los criminales ante la justicia, mientras lucha con su propia lucha int
 La historia de Batman ha sido contada en cómics, películas, series de televisión y otras formas de medios a lo largo de las décadas, convirtiéndolo en uno de los
 superhéroes más icónicos y queridos del mundo del entretenimiento. Su enfoque en la justicia, la determinación y la lucha contra sus propios demonios personales lo ha 
 convertido en un símbolo duradero de la lucha contra el mal.
+
+## Notas:
+Esta wea me es de prueba
